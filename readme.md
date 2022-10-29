@@ -1,4 +1,4 @@
-![](https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif =1000x200)
+![](/assets/banner.gif =1000x200)
 
 [![](https://visitcount.itsvg.in/api?id=titodelas&icon=1&color=1)](https://visitcount.itsvg.in)
 
