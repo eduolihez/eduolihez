@@ -1,9 +1,10 @@
-![](/assets/banner.gif =1000x200)
+<p  align="center">
+<img  src="https://visitcount.itsvg.in/api?id=titodelas&icon=1&color=1"  alt="Visitors">
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=titodelas&icon=1&color=1)](https://visitcount.itsvg.in)
-
-
-![GitHub metrics](https://metrics.lecoq.io/titodelas)
+<p  align="center">
+<img  src="https://metrics.lecoq.io/titodelas"  alt="Metrics">
+</p>
 
 <details><summary>Check my GitHub Stats</summary>
 
