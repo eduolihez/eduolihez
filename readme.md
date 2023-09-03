@@ -1,14 +1,33 @@
-# Hi there! 👋
+<!-- Replace these with your own details -->
+<h1 align="center">🚀 Cybersecurity Passionate | 💡 Innovator | 🌍 Explorer</h1>
+<p align="center">
+  <a href="https://delaas.xyz">Website</a> •
+  <a href="https://twitter.com/eduolihez">Twitter</a> •
+  <a href="https://www.instagram.com/eduolihez/">Instagram</a>
+</p>
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=titodelas&icon=1&color=1" alt="Visitors"> </p>  <p align="center"> <img src="https://metrics.lecoq.io/titodelas" alt="Metrics"> </p>
+## Introduction
 
-## About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Edu Olivares"
+        self.title = "Cybersecurity Passionate"
+        self.skills = ["Python", "JavaScript", "Html", "Css", "Arduino"]
+        self.passion = "Learning, coding, and repeating"
+        self.motto = "Code, Collaborate, Create"
 
-I'm Edu, a passionate software developer with a strong focus on python, and cybersecurity. I love to build innovative and impactful solutions using cutting-edge technologies. My goal is to continuously learn and improve my skills while contributing to meaningful projects.
+    def about_me(self):
+        return f"""
+        Hey there! I'm {self.name}, a {self.title} on a mission to make the digital world come alive.
+        With a toolbox filled with {', '.join(self.skills)}, I love tackling challenges and crafting elegant solutions.
+        My passion is {self.passion}, and my motto is simple: {self.motto}.
+        Let's connect and build something incredible together!
+        """
 
-## Skills and Technologies
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+dev = Developer()
+print(dev.about_me())
+```
 
 ## GitHub Stats
 
