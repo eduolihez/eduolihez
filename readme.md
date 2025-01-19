@@ -8,7 +8,9 @@
   
 - 🔭 I’m currently working on **my personal porfolio**  
 - 🌱 I’m currently learning **Wordpress & web development**  
-> ⚡ Fun fact **we are 2 chromosomes short of being a potato**  
+> ⚡ Fun fact **we are 2 chromosomes short of being a potato**
+
+<a href='https://gist.github.com/eduolihez'>Feel Free to Check my Gist !!<a> 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
