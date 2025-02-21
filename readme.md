@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduolihez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=eduolihez&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduolihez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -51,8 +50,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/eduolihez">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eduolihez&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31o5bd5jmstlvd2f3jymyzvvoshu?si=1f6673efe6704087">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5bd5jmstlvd2f3jymyzvvoshu?si=1f6673efe6704087&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
