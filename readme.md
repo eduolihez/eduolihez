@@ -49,17 +49,12 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31o5bd5jmstlvd2f3jymyzvvoshu?si=1f6673efe6704087">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5bd5jmstlvd2f3jymyzvvoshu?si=1f6673efe6704087&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/eduolihez/eduolihez/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduolihez/eduolihez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduolihez/eduolihez/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eduolihez/eduolihez/output/github-snake.svg" />
+</picture>
 
 ###
 
