@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eduolihez/count.svg?"  />
+  <img src="![](https://komarev.com/ghpvc/?username=eduolihez)"  />
 </div>
 
 ###
