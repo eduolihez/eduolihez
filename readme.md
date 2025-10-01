@@ -58,8 +58,6 @@
 
 ###
 
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=eduolihez&style=for-the-badge)
-</div>
+![](https://komarev.com/ghpvc/?username=eduolihez&style=for-the-badge)
 
 ###
