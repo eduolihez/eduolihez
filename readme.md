@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Edu, and I'm a student, from Barcelona</h2>
 
+![](https://komarev.com/ghpvc/?username=eduolihez&style=for-the-badge)
+
 ###
 
 <div align="center">
@@ -44,7 +46,6 @@
   </a>
   <a href="https://www.linkedin.com/in/eduolihez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -55,9 +56,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduolihez/eduolihez/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/eduolihez/eduolihez/output/github-snake.svg" />
 </picture>
-
-###
-
-![](https://komarev.com/ghpvc/?username=eduolihez&style=for-the-badge)
 
 ###
