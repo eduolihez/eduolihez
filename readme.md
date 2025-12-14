@@ -4,7 +4,7 @@
 * **Role:** Systems Technician (SysAdmin) with L1/L2 IT Support expertise.
 * **Specializing in:** Cybersecurity (SecOps) and Systems Automation with **Python**.
 * **Key Achievement:** Reduced ticket response times (SLA) by over **15%** through proactive maintenance and automation scripts.
-* **Ask me about:** Systems Administration (Windows/Linux), Python scripting, or defense strategies in Cloud environments (Azure/AD).
+* **Ask me about:** Systems Administration (Windows/Linux), Python scripting, or Cibersecurity.
 * **Location:** Badalona, Barcelona, Spain.
 * **Contact:** **eduolihez@gmail.com**.
   *(I reply faster than my scripts run)*
@@ -53,7 +53,7 @@ My focus is on efficient systems administration and security.
 ## 📊 GitHub Analytics - Consistency is Key
 
 ### 🔥 Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduolihez&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduolihez&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
