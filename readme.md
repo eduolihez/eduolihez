@@ -1,89 +1,78 @@
-# ¡Hola! Soy Eduardo Olivares 👋
+# Hi there! I'm Eduardo Olivares 👋
 
-## 🚀 Datos Clave y Foco Profesional
-<img align="right" src="https://eduolihez.com/src/eduolihez_pfp.JPG" alt="Profile Image" width="300" title="Técnico de Sistemas, SysAdmin & Ciberseguridad"/>  
-
-- 🛡️ **Técnico de Sistemas** con enfoque en Ciberseguridad (SecOps) y SysAdmin.
-- 🐍 **Especialista en Automatización:** Convirtiendo tareas repetitivas en código eficiente, principalmente con **Python**.
-- 💬 Pregúntame sobre: Active Directory, la seguridad en la nube de Azure o la solución *Dewi* (mi proyecto ganador de la Hackathon).
-- 📍 **Base de Operaciones:** **Badalona, Barcelona**.
-  *(Sí, la paella es tan real como un servidor bien configurado)* - ⚡ **Superpoder Oculto:** Reduje los tiempos de respuesta de tickets (SLA) en más del 15% mediante documentación y scripts de automatización.
-- 📫 **Contacto directo:** **eduolihez@gmail.com**.
+## 🚀 Quick Facts & Professional Focus
+* **Role:** Systems Technician (SysAdmin) with L1/L2 IT Support expertise.
+* **Specializing in:** Cybersecurity (SecOps) and Systems Automation with **Python**.
+* **Key Achievement:** Reduced ticket response times (SLA) by over **15%** through proactive maintenance and automation scripts.
+* **Winner:** 8th Hackathon TecnoCampus Mataró with "Dewi," a water-monitoring sustainability platform.
+* **Ask me about:** Active Directory, Azure Cloud Security fundamentals, or my automation projects.
+* **Location:** Badalona, Barcelona, Spain.
+* **Contact:** **eduolihez@gmail.com**.
+  *(I reply faster than my code compiles)*
 
 ---
 
-## 🛠️ Stack Tecnológico & Caja de Herramientas
+## 💻 Tech Stack & Digital Playground
+
+I focus on efficient systems administration and security, using a mix of established and new technologies.
+
+### Key Technologies (Badges)
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Mi herramienta favorita para scripting y automatización"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Administración de Ubuntu Server"/>
-  </a>
-  <a href="https://www.microsoft.com/es-es/windows-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows server" width="40" height="40" title="Windows 10/Server & Active Directory"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Control de versiones y GitOps básico"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="Gestión de bases de datos para proyectos web"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="Estructura para mis proyectos Full Stack"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="Estilos y diseño responsive"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Automation & Scripting"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Ubuntu Server Administration"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" title="Windows Server & Active Directory"/>
+  <img src="https://img.shields.io/badge/VMware-607080?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" title="Virtualization Management"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="Database Management"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Version Control"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="Web Development"/>
 </p>
 
-*Otras herramientas en el cinturón: VMware, PHP, JavaScript, Raspberry Pi & Go (básico)*
+*More tools in my belt: HTML5, CSS3, PHP, Raspberry Pi, Go (Basic)*
 
 ---
 
-## 📈 GitHub Analytics - Porque la consistencia es clave
+## 🛡️ Certifications & Education
 
-### 🔥 Racha de Contribuciones
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduolihez&theme=radical&hide_border=false)
+I am a continuous learner, focusing on industry-relevant skills.
 
----
-
-## 🏆 Certificaciones Destacadas
-
-| Certificación | Organismo | Foco |
-| :--- | :--- | :--- |
-| **IT Specialist** | Certiport | Programación Python (scripting, automatización) |
-| **B2 First Certificate** | Cambridge English | Comunicación profesional en inglés |
-| **Cybersecurity Professional Fundamentals** | Microsoft/LinkedIn | Detección de amenazas y cumplimiento normativo (NIST/RGPD) |
+* **CFGS Administration of Computer Systems in Network with Cybersecurity Profile** (2025 - Present)
+* **IT Specialist - Python Programming** (Certiport)
+* **Cybersecurity Professional Fundamentals** (Microsoft/LinkedIn)
+* **B2 First Certificate in English** (Cambridge English) - *Validated for professional technical communication*
 
 ---
 
-## 👀 Enlaces Rápidos a Proyectos y Redes Sociales
+## 💡 Highlighted Projects
 
-| Proyecto Destacado | Descripción | Enlace |
-| :--- | :--- | :--- |
-| **Més Badalona** | Plataforma de participación ciudadana (PHP/MySQL) | [Ver Proyecto](https://mesbadalona.eduolihez.com) |
-| **FollowGuard** | Herramienta de análisis para Instagram (API/Seguridad) | [Ver Proyecto](https://followguard.eduolihez.com) |
-| **Passwd Centinel**| Extensión Chrome para gestión segura de contraseñas (JS/Sec) | [Ver Proyecto](https://passwdcentinel.eduolihez.com) |
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Passwd Centinel** | Chrome Extension for secure password management and security auditing. | JS, Chrome Ext, Security | [View Project](https://passwdcentinel.eduolihez.com) |
+| **Més Badalona** | Citizen participation platform to report local incidents in real-time. | PHP, MySQL, Web | [View Project](https://mesbadalona.eduolihez.com) |
+| **FollowGuard** | Analysis tool for Instagram: detects unfollowers and manages your community. | API, Analytics, Security | [View Project](https://followguard.eduolihez.com) |
+| **Guardianes Digitales** | Interactive course on digital security awareness and best practices. | Cybersecurity, Education, JS | [View Course](https://eduolihez.com/guardianes-digitales/index.html) |
+
+---
+
+## 📊 GitHub Analytics - Consistency is Key
+
+### 🔥 Contribution Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=eduolihez&theme=dark&hide_border=false)
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/eduolihez" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/eduolihez" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://medium.com/@eduolihez" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="https://instagram.com/eduolihez" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-## ⚡ Actualmente...
-- 📚 Cursando el CFGS Administración de Sistemas Informáticos en Red con enfoque en **Ciberseguridad**.
-- 💡 Buscando la solución más eficiente (y automatizada) al próximo problema.
-- 🗣️ Idiomas: **Español (Nativo), Catalán (Nativo)** e **Inglés (B2)** para la documentación técnica.
+### P.S.
+If my code is running flawlessly, it's a testament to thorough planning. If it crashes, it's an "uncontrolled vulnerability" that I am currently patching.
 
 ---
 
-### P.D.
-Si mi código funciona, es gracias a una buena planificación. Si no, es una "vulnerabilidad controlada" que estoy a punto de parchear.
-
----
-
-_Última actualización: Cuando el último script terminó de correr_
+_Last updated: When I remembered to commit_
