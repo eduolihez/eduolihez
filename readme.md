@@ -1,68 +1,64 @@
 <div align="center">
   
-# 🌐 Eduardo Olivares | Technical Profile
+# Eduardo Olivares | Técnico de Sistemas y Desarrollador
 
-### **System Administrator | Backend Developer | Cybersecurity Focus**
-<p>📍 Barcelona, España</p>
+### **Soporte IT | SysAdmin | Automatización con Python**
+<p>📍 Badalona, Barcelona</p>
 
 </div>
 
 ---
 
-## 🤵 Executive Summary
+## 🚀 Perfil Profesional
 
-Soy un profesional de sistemas con **5+ años de experiencia** en Soporte IT y SysAdmin, enfocado en optimizar infraestructuras y automatizar tareas críticas con **Python**. Mi valor reside en la intersección de la gestión de sistemas (Linux, Windows Server) y la **ciberseguridad ofensiva/defensiva (SecOps)**, aplicando una mentalidad de desarrollador para la creación de soluciones eficientes y escalables.
+Soy **Técnico de Sistemas** con experiencia en Soporte IT Nivel 1 y 2. Me especializo en la administración de sistemas (**SysAdmin**) y la **automatización de tareas** críticas con Python. Mi enfoque actual está en profundizar en **Ciberseguridad (SecOps)** y aplicar las mejores prácticas en mis proyectos.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Resultados-Alto%20Impacto-0077B5?style=for-the-badge&logo=power-automate&logoColor=white" />
-</div>
-
-* **Eficiencia Operativa:** Reducción de más del **15%** en tiempos de respuesta de SLAs mediante la implementación de scripts de automatización.
-* **Liderazgo Técnico:** Experiencia coordinando equipos de soporte, mejorando la colaboración y eficiencia en un **25%**.
-* **Foco Actual:** Especialización activa en **Hardening de Sistemas** y desarrollo seguro.
+> **🎯 Resultados Verificables:**
+> * Reducción de más del **15%** en los tiempos de respuesta de tickets (SLA) mediante scripting.
+> * Coordinación de equipos de trabajo para alcanzar objetivos, mejorando la colaboración en un **25%**.
+> * Adopción de nuevas tecnologías con la finalización de **4 certificaciones** en el último año.
 
 ---
 
-## ⚙️ Áreas de Competencia y Stack Técnico
+## 🛠️ Stack Tecnológico
 
-Mi stack está optimizado para la administración de sistemas, la seguridad y el desarrollo de herramientas:
+Herramientas y lenguajes con los que trabajo regularmente:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,php,mysql,git,linux,windows,bash,raspberrypi,arduino" height="45" alt="Tech Stack Icons"  />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,php,mysql,git,linux,windows,bash,raspberrypi,arduino" height="40" alt="Tech Stack Icons"  />
 </div>
 
-| Dominio | Competencias Específicas | Herramientas Clave |
+| Área | Tecnologías |
+| :--- | :--- |
+| **Sistemas/Admin** | Linux Server, Windows Server (Active Directory), Bash Scripting |
+| **Desarrollo** | Python, JavaScript, PHP, MySQL |
+| **Control** | Git, Raspberry Pi, Arduino |
+
+---
+
+## ✨ Proyectos Clave
+
+Soluciones desarrolladas, destacando mi experiencia práctica:
+
+| Proyecto | Objetivo Principal | Enlace |
 | :--- | :--- | :--- |
-| **SysAdmin / IT** | Windows Server (Active Directory), Linux Server, Virtualización, Gestión de Tickets (SLA). | Bash, PowerShell, Active Directory, Proxmox. |
-| **Ciberseguridad** | SecOps, Ethical Hacking (TryHackMe), Análisis de Brechas, Gestión de Credenciales. | Passwd Centinel, Nmap, Metasploit. |
-| **Desarrollo** | Backend Scripting y Automatización, Full-Stack Web. | Python, JavaScript, PHP, MySQL, Git. |
-| **Sistemas Embebidos** | Robótica, Proyectos Home Lab, IoT. | Raspberry Pi, Arduino. |
+| **Passwd Centinel** | Extensión de Chrome para **auditoría de seguridad y gestión de contraseñas**. | [![Ver Proyecto](https://img.shields.io/badge/-Ver%20Web-1D9BF0?style=flat-square&logo=chrome&logoColor=white)](https://passwdcentinel.eduolihez.com) |
+| **Més Badalona** | Plataforma geolocalizada para el **reporte de incidencias urbanas**. | [![Ver Proyecto](https://img.shields.io/badge/-Ver%20Web-0077B5?style=flat-square&logo=openstreetmap&logoColor=white)](https://mesbadalona.eduolihez.com) |
+| **Guardianes Digitales** | **Curso interactivo** gamificado de concienciación sobre ciberseguridad. | [![Ver Curso](https://img.shields.io/badge/-Ver%20Curso-E4405F?style=flat-square&logo=coursera&logoColor=white)](https://eduolihez.com/guardianes-digitales/index.html) |
 
 ---
 
-## ✨ Portafolio de Soluciones Desarrolladas
+## 🎓 Formación y Certificaciones
 
-Proyectos que demuestran la aplicación de mis habilidades en entornos reales:
-
-| Solución | Enfoque | Tecnologías | Ver Proyecto |
-| :--- | :--- | :--- | :--- |
-| **Passwd Centinel** | **Seguridad de Credenciales** - Extensión Chrome para auditoría de contraseñas en tiempo real. | `JS` `Chrome Ext` `Seguridad` | [![Ver Proyecto](https://img.shields.io/badge/-Web%20App-1D9BF0?style=flat-square&logo=chrome&logoColor=white)](https://passwdcentinel.eduolihez.com) |
-| **Més Badalona** | **Participación Ciudadana** - Plataforma geolocalizada para el reporte y seguimiento de incidencias urbanas. | `PHP` `MySQL` `Web` | [![Ver Proyecto](https://img.shields.io/badge/-Web%20Platform-0077B5?style=flat-square&logo=openstreetmap&logoColor=white)](https://mesbadalona.eduolihez.com) |
-| **Guardianes Digitales** | **Formación en Ciberseguridad** - Curso interactivo gamificado enfocado en la prevención de riesgos. | `Ciberseguridad` `Educación` `JS` | [![Ver Curso](https://img.shields.io/badge/-Elearning-E4405F?style=flat-square&logo=coursera&logoColor=white)](https://eduolihez.com/guardianes-digitales/index.html) |
-
----
-
-## 🎓 Certificaciones Profesionales
-
-Validación de competencias clave:
+Validación de conocimientos en programación y competencias digitales:
 
 <div align="center">
   
-| Certificación | Nivel / Área | Credencial |
+| Certificación | Área | Credencial |
 | :--- | :--- | :--- |
-| **IT Specialist** | Python Programming | <a href="https://www.credly.com/badges/6ea9eebb-bf6b-4369-82ee-845195fc8652/public_url" target="_blank"><img src="https://img.shields.io/badge/Ver%20Credencial-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a> |
-| **IC3 Digital Literacy** | Competencias Digitales Globales | <a href="https://www.credly.com/badges/cc7885f6-f69b-473a-ab89-e3a07f7a49a3/public_url" target="_blank"><img src="https://img.shields.io/badge/Ver%20Credencial-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a> |
-| **B2 First Certificate** | Inglés (Cambridge) | <a href="src/First_Certificate.jpg" target="_blank"><img src="https://img.shields.io/badge/Ver%20Certificado-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Drive Link" /></a> |
+| **IT Specialist** | Python Programming | <a href="https://www.credly.com/badges/6ea9eebb-bf6b-4369-82ee-845195fc8652/public_url" target="_blank"><img src="https://img.shields.io/badge/Credly-Ver%20Certificado-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a> |
+| **IC3 Digital Literacy** | Competencias Digitales | <a href="https://www.credly.com/badges/cc7885f6-f69b-473a-ab89-e3a07f7a49a3/public_url" target="_blank"><img src="https://img.shields.io/badge/Credly-Ver%20Certificado-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a> |
+| **B2 First Certificate** | Inglés (Cambridge) | <a href="src/First_Certificate.jpg" target="_blank"><img src="https://img.shields.io/badge/B2%20Cambridge-Ver%20Certificado-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Cambridge Certificate" /></a> |
 
 </div>
 
@@ -70,34 +66,25 @@ Validación de competencias clave:
 
 <div align="center">
 
-## 📈 Contribución y Actividad
+## 📈 Mi Actividad
 
 <img src="https://streak-stats.demolab.com?user=eduolihez&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak"  />
 <img src="https://github-profile-trophy.vercel.app?username=eduolihez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trofeos de GitHub"  />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduolihez/eduolihez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduolihez/eduolihez/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de Contribuciones de Pac-Man" src="https://raw.githubusercontent.com/eduolihez/eduolihez/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
 ## 🤝 Conectemos
 
-**Abierto a nuevas oportunidades de SysAdmin, Automatización y Ciberseguridad.**
+<p>Si buscas un perfil híbrido con foco en sistemas, seguridad y desarrollo, contáctame:</p>
 
 <a href="https://www.linkedin.com/in/eduolihez/" target="_blank">
-  <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Contactar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:eduolihez@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Directo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-eduolihez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="src/Edu_Olivares_CV.pdf" download="Eduardo_Olivares_CV.pdf">
-  <img src="https://img.shields.io/badge/Descargar%20CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar Curriculum" />
-</a>
-<a href="https://tryhackme.com/p/eduolihez" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  <img src="https://img.shields.io/badge/CV-Descargar%20Curriculum-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar Curriculum" />
 </a>
 
 </div>
