@@ -1,4 +1,3 @@
-
 <div align="center">
   
 # 🛡️ Eduardo Olivares - Tech Lead & Cybersecurity Enthusiast
@@ -43,6 +42,17 @@ Mi experiencia abarca desde la administración de infraestructura hasta el desar
 
 ---
 
+## ⚙️ Metodologías y Herramientas IT **(¡NUEVO!)**
+
+Experiencia trabajando con prácticas modernas de gestión y seguridad:
+
+* **Gestión de Infraestructura:** Active Directory (Windows Server), Virtualización, Administración de redes.
+* **Seguridad:** Hardening de sistemas, Ethical Hacking (TryHackMe), SecOps.
+* **Metodología:** Gestión de Tickets (SLA), Documentación, Automatización de tareas.
+* **Herramientas:** Shell Scripting (Bash/PowerShell), Formspree (Contacto Web), Leaflet (Geolocalización).
+
+---
+
 <div align="center">
   <h2>✨ Proyectos Destacados</h2>
 </div>
@@ -62,9 +72,9 @@ Mi experiencia abarca desde la administración de infraestructura hasta el desar
   
 | Certificación | Área | Credencial |
 | :--- | :--- | :--- |
-| **IT Specialist** | Python Programming | <img src="https://img.shields.io/badge/-Ver%20Credencial-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /> |
-| **IC3 Digital Literacy** | Competencias Digitales | <img src="https://img.shields.io/badge/-Ver%20Credencial-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /> |
-| **B2 First Certificate** | Inglés (Cambridge) | <img src="https://img.shields.io/badge/-Ver%20Certificado-28A745?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive Link" /> |
+| **IT Specialist** | Python Programming | <a href="https://www.credly.com/badges/6ea9eebb-bf6b-4369-82ee-845195fc8652/public_url" target="_blank"><img src="https://img.shields.io/badge/-Ver%20Credencial-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a> |
+| **IC3 Digital Literacy** | Competencias Digitales | <a href="https://www.credly.com/badges/cc7885f6-f69b-473a-ab89-e3a07f7a49a3/public_url" target="_blank"><img src="https://img.shields.io/badge/-Ver%20Credencial-0077B5?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a> |
+| **B2 First Certificate** | Inglés (Cambridge) | <a href="src/First_Certificate.jpg" target="_blank"><img src="https://img.shields.io/badge/-Ver%20Certificado-28A745?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive Link" /></a> |
 
 </div>
 
@@ -85,19 +95,21 @@ Mi experiencia abarca desde la administración de infraestructura hasta el desar
 
 ---
 
-## 📧 Conectemos
+## 📧 Contacto Rápido **(¡NUEVO!)**
+
+Si buscas un profesional de sistemas con mentalidad de desarrollador, hablemos.
 
 <a href="https://www.linkedin.com/in/eduolihez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:eduolihez@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="src/Edu_Olivares_CV.pdf" download="Eduardo_Olivares_CV.pdf">
+  <img src="https://img.shields.io/badge/Descargar%20CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar Curriculum" />
 </a>
 <a href="https://tryhackme.com/p/eduolihez" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
-</a>
-<a href="https://eduolihez.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-22B2DA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
