@@ -1,22 +1,37 @@
-# Eduardo
 
-**SysAdmin & SecOps · Python Automation**
+# Hi, I'm Eduardo Olivares 👋
 
-Specialized in designing secure infrastructures, managing corporate networks, and automating processes to maximize efficiency. I work at the intersection of systems administration and cybersecurity.
+**SysAdmin, Cybersecurity & Cloud**
 
-### Featured Projects
+Passionate about cybersecurity (SecOps), automation, and infrastructure deployment. I turn complex problems into secure and efficient architectures. I grew up dismantling hardware, and now I build, manage, and protect systems. 
 
-* **[Dewi](https://github.com/eduolihez/hackathon-Dewi)** — Open-source hardware IoT solution for water resource monitoring. *Winning project at the TecnoCampus Hackathon.*
-* **[Password Centinel](https://github.com/eduolihez/password-centinel)** — Local-first Chrome extension for generating, analyzing, and securely storing passwords with zero-latency breach detection.
-* **[Més Badalona](https://mesbadalona.eduolihez.com)** — Community-focused web platform developed with PHP and relational databases.
-* **[eduolihez.com](https://github.com/eduolihez/eduolihez.com)** — Personal portfolio and professional hub built with Vanilla JS, CSS Grid, and a minimalist Bento UI design.
+Currently working as a SecOps & SysAdmin, creating tools that make day-to-day operations easier.
 
-### Technical Stack
+### 🛠️ Tech Stack
 
-* **Infrastructure & Networking:** Linux, Windows Server, Active Directory, Fortinet.
-* **SecOps & Cloud:** Docker, Microsoft Azure (AZ-900), Security Auditing.
-* **Development:** Python, Bash, Git, PHP, Vanilla JS.
+* **Systems & Networking:** Linux, Windows Server, Active Directory, Fortinet.
+* **Automation & Scripting:** Python 🐍 (Certified), Bash, PowerShell, Go.
+* **Cloud & Virtualization:** Docker, VMware.
+* **Web & Databases:** HTML5, CSS3, JavaScript, PHP, MySQL.
+* **IoT:** Raspberry Pi, Arduino.
 
-### Contact
+### 🚀 Featured Projects
 
-[Portfolio](https://eduolihez.com) · [LinkedIn](https://www.linkedin.com/in/eduolihez) · [Email](mailto:eduolihez@gmail.com)
+* 🔐 **[FollowGuard](https://github.com/eduolihez/FollowGuard):** Cyber Intelligence and analytics tool aimed at detecting bots on Instagram.
+* 🎯 **[RouletteOS](https://github.com/eduolihez/RouletteOS):** Interactive roulette and classroom gamification built in a single file (HTML5 Canvas, Vanilla JS, LocalStorage).
+* 🔑 **[Passwd Centinel](https://github.com/eduolihez/Passwd_Centinel):** Security tool and password manager.
+* 💧 **[Dewi (IoT):](https://github.com/eduolihez/hackathon-Dewi)** IoT solution for water monitoring. *🏆 1st Place at TecnoCampus Hackathon 2025*.
+* 🏙️ **[Més Badalona](https://github.com/eduolihez/Mes_Badalona):** Citizen participation platform (PHP/MySQL).
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduolihez&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=737373&icon_color=2563EB" alt="eduolihez's GitHub Stats" />
+</p>
+
+### 📬 Let's Connect
+
+[🌐 Web / Portfolio](https://eduolihez.com/) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/eduolihez) &nbsp;·&nbsp; [✉️ Email](mailto:eduolihez@gmail.com)
+
+---
+*Always up for a chat about networks, Python automation, or the latest cybersecurity challenge.*
