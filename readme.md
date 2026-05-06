@@ -19,7 +19,7 @@ Currently focused on SecOps, building security tools, and engineering efficient 
 * 🔐 **[FollowGuard](https://github.com/eduolihez/FollowGuard):** Cyber Intelligence and analytics tool aimed at detecting bots on Instagram.
 * 💧 **[Dewi (IoT):](https://github.com/eduolihez/hackathon-Dewi)** IoT solution for water monitoring. *🏆 1st Place at TecnoCampus Hackathon 2025*.
 * 🔑 **[Passwd Centinel](https://github.com/eduolihez/Passwd_Centinel):** Security tool and password manager.
-* 🏙️ **[Més Badalona](https://github.com/eduolihez/Mes_Badalona):** Citizen participation platform for incident management (PHP/MySQL).
+* 🏙️ **[BadaVeu](https://badaveu.eduolihez.com):** Citizen participation platform for incident management (PHP/MySQL).
 ### 📈 GitHub Stats
 
 <p align="left">
