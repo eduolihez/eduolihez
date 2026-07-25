@@ -15,7 +15,7 @@ Security analyst specialized in incident response, log monitoring, and threat hu
 
 ### **Featured Projects**
 * 🔒 **[Password Sentinel](https://eduolihez.com/projects/passwdcentinel/)** — Chrome security extension to audit credentials, generate strong keys, and check data leaks locally.
-* 🌐 **North Browser** — A custom security-hardened browser designed for safe incident analysis and malware sandboxing.
+* 🌐 **[Northgate Browser](https://github.com/eduolihez/northgate-browser)** — A custom security-hardened browser designed for safe incident analysis and malware sandboxing.
 * 🤖 **[PromptMaster](https://eduolihez.com/projects/promptmaster/)** — Structured AI prompt engineering extension built for ChatGPT, Claude, and Gemini.
 
 ---
