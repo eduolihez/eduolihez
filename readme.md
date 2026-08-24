@@ -18,7 +18,7 @@ Analista de seguridad especializado en detección de amenazas, respuesta a incid
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | 🌐 **[eduolihez.com](https://github.com/eduolihez/eduolihez.com)** | Portfolio y blog trilingüe (ES/EN/CA) — Astro estático + API propia en PHP/MySQL. | Astro · TypeScript · PHP |
-| 🛡️ **[Blue Team Hub](https://github.com/eduolihez/eduolihez.github.io)** | Herramientas de ciberseguridad client-side: analizador de cabeceras, generador YARA, playbooks de incidentes. | Astro · TailwindCSS |
+| 🛡️ **[Blue Team Hub](https://github.com/eduolihez/eduolihez.github.io)** | Herramientas de ciberseguridad client-side + [KEV Watch](https://eduolihez.github.io/tools/kev-watch), vigilancia diaria automatizada (GitHub Actions) del catálogo CISA KEV. | Astro · TailwindCSS |
 | 🔐 **[Password Centinel](https://github.com/eduolihez/password-centinel)** | Gestor de contraseñas 100% local: AES-256-GCM, TOTP/2FA, chequeo HIBP por k-anonimato. | JavaScript · WebCrypto |
 | 🔑 **[BinCat](https://github.com/eduolihez/BinCat)** | SDK y dashboard Flask para generar, validar y revocar tokens Fernet/JWT de forma segura. | Python · Flask · Cryptography |
 | 🌊 **[Dewi App](https://github.com/eduolihez/hackathon-Dewi)** | Prototipo ganador de la 8ª Hackathon TecnoCampus para monitorizar el consumo de agua en tiempo real. | Next.js · TypeScript |
