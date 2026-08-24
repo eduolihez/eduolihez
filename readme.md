@@ -19,12 +19,12 @@ Analista de seguridad especializado en detección de amenazas, respuesta a incid
 |---|---|---|
 | 🌐 **[eduolihez.com](https://github.com/eduolihez/eduolihez.com)** | Portfolio y blog trilingüe (ES/EN/CA) — Astro estático + API propia en PHP/MySQL. | Astro · TypeScript · PHP |
 | 🛡️ **[Blue Team Hub](https://github.com/eduolihez/eduolihez.github.io)** | Herramientas de ciberseguridad client-side: analizador de cabeceras, generador YARA, playbooks de incidentes. | Astro · TailwindCSS |
+| 🔐 **[Password Centinel](https://github.com/eduolihez/password-centinel)** | Gestor de contraseñas 100% local: AES-256-GCM, TOTP/2FA, chequeo HIBP por k-anonimato. | JavaScript · WebCrypto |
 | 🔑 **[BinCat](https://github.com/eduolihez/BinCat)** | SDK y dashboard Flask para generar, validar y revocar tokens Fernet/JWT de forma segura. | Python · Flask · Cryptography |
 | 🌊 **[Dewi App](https://github.com/eduolihez/hackathon-Dewi)** | Prototipo ganador de la 8ª Hackathon TecnoCampus para monitorizar el consumo de agua en tiempo real. | Next.js · TypeScript |
 | 🦊 **[NorthGate Browser](https://github.com/eduolihez/northgate-browser)** | Fork de Mullvad/Firefox con detección de phishing on-device vía ONNX/Rust, sin telemetría. | Rust · ONNX · JavaScript |
 
 ### Extensiones y proyectos cerrados
-* 🔒 **[Password Sentinel](https://eduolihez.com/projects/passwdcentinel/)** — Extensión de Chrome que audita contraseñas contra Have I Been Pwned sin enviar datos a ningún servidor.
 * 🤖 **[PromptMaster](https://eduolihez.com/projects/promptmaster/)** — Extensión de prompt engineering estructurado para ChatGPT, Claude y Gemini.
 
 ---
