@@ -14,14 +14,6 @@ Analista de seguridad especializado en detección de amenazas, respuesta a incid
 
 ---
 
-### GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduolihez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduolihez&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### Open Source
 | Proyecto | Descripción | Stack |
 |---|---|---|
