@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <b><a href="readme.md">Versión en Español</a></b> · <a href="readme.en.md">English version</a>
+</p>
+
 ---
 
 ## Sobre mí
