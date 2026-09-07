@@ -14,26 +14,69 @@ Analista de seguridad especializado en detección de amenazas, respuesta a incid
 
 ---
 
+### 📊 Actividad en GitHub
+<p align="center">
+  <img height="165" src="https://eduolihez.com/api/github-stats.php" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://eduolihez.com/api/github-langs.php" alt="Lenguajes más usados" />
+</p>
+<p align="center">
+  <img height="165" src="https://eduolihez.com/api/github-streak.php" alt="Racha de contribuciones" />
+</p>
+
+---
+
 ### Open Source
+
+<details>
+<summary><b>🛡️ Seguridad y threat intelligence</b></summary>
+<br>
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🛡️ **[Blue Team Hub](https://github.com/eduolihez/eduolihez.github.io)** | Herramientas de ciberseguridad client-side + [KEV Watch](https://eduolihez.github.io/tools/kev-watch), vigilancia diaria automatizada (GitHub Actions) del catálogo CISA KEV. | Astro · TailwindCSS |
+| 🔐 **[Password Centinel](https://github.com/eduolihez/password-centinel)** | Gestor de contraseñas 100% local: AES-256-GCM, TOTP/2FA, chequeo HIBP por k-anonimato. | JavaScript · WebCrypto |
+| 🦊 **[NorthGate Browser](https://github.com/eduolihez/northgate-browser)** | Fork de Mullvad/Firefox con detección de phishing on-device vía ONNX/Rust, sin telemetría. | Rust · ONNX · JavaScript |
+
+</details>
+
+<details>
+<summary><b>🛠️ Herramientas y aplicaciones</b></summary>
+<br>
+
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | 🌐 **[eduolihez.com](https://github.com/eduolihez/eduolihez.com)** | Portfolio y blog trilingüe (ES/EN/CA) — Astro estático + API propia en PHP/MySQL. | Astro · TypeScript · PHP |
-| 🛡️ **[Blue Team Hub](https://github.com/eduolihez/eduolihez.github.io)** | Herramientas de ciberseguridad client-side + [KEV Watch](https://eduolihez.github.io/tools/kev-watch), vigilancia diaria automatizada (GitHub Actions) del catálogo CISA KEV. | Astro · TailwindCSS |
-| 🔐 **[Password Centinel](https://github.com/eduolihez/password-centinel)** | Gestor de contraseñas 100% local: AES-256-GCM, TOTP/2FA, chequeo HIBP por k-anonimato. | JavaScript · WebCrypto |
 | 🔑 **[BinCat](https://github.com/eduolihez/BinCat)** | SDK y dashboard Flask para generar, validar y revocar tokens Fernet/JWT de forma segura. | Python · Flask · Cryptography |
 | 🌊 **[Dewi App](https://github.com/eduolihez/hackathon-Dewi)** | Prototipo ganador de la 8ª Hackathon TecnoCampus para monitorizar el consumo de agua en tiempo real. | Next.js · TypeScript |
-| 🦊 **[NorthGate Browser](https://github.com/eduolihez/northgate-browser)** | Fork de Mullvad/Firefox con detección de phishing on-device vía ONNX/Rust, sin telemetría. | Rust · ONNX · JavaScript |
 
-### Extensiones y proyectos cerrados
+</details>
+
+<details>
+<summary><b>📦 Proyectos cerrados</b></summary>
+<br>
+
 * 🤖 **[PromptMaster](https://eduolihez.com/projects/promptmaster/)** — Extensión de prompt engineering estructurado para ChatGPT, Claude y Gemini.
+
+</details>
 
 ---
 
 ### Certificaciones destacadas
-* 🛡️ **Fortinet NSE** — Network Security Associate.
-* ☁️ **Microsoft Azure AI Fundamentals** — Infraestructura cloud y machine learning aplicado a seguridad.
-* 🔒 **Trend Micro Vision One** — SecOps, AI Security, Threat Intelligence y Cloud Security.
-* 📜 Listado completo y verificable en **[Credly](https://www.credly.com/users/eduolihez)**.
+
+<details>
+<summary><b>🎓 Ver insignias verificadas</b></summary>
+<br>
+
+| Insignia | Certificación |
+|:---:|---|
+| <a href="https://www.credly.com/badges/d211824c-9076-4d47-a3e4-df212f541969"><img src="https://images.credly.com/size/110x110/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="64" alt="Fortinet Certified Associate Cybersecurity" /></a> | 🛡️ **[Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d211824c-9076-4d47-a3e4-df212f541969)** — Nivel asociado en ciberseguridad de red. |
+| <a href="https://www.credly.com/badges/9a8e25b3-ca1d-4010-ba2e-59378b3eb668"><img src="https://images.credly.com/size/110x110/images/7ca06297-1543-4ed2-b9fc-7f0af8635700/blob" width="64" alt="Fortinet NSE 3 Certified in Cybersecurity" /></a> | 🛡️ **[Fortinet NSE 3 Certified in Cybersecurity](https://www.credly.com/badges/9a8e25b3-ca1d-4010-ba2e-59378b3eb668)** — Network Security Expert, nivel 3. |
+| <a href="https://www.credly.com/badges/3010ded8-d149-438c-b041-0da42fc58d09"><img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="64" alt="Microsoft Certified: Azure AI Fundamentals" /></a> | ☁️ **[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/3010ded8-d149-438c-b041-0da42fc58d09)** — Infraestructura cloud y machine learning aplicado a seguridad. |
+| <a href="https://www.linkedin.com/in/eduolihez/details/certifications/"><img src="https://img.shields.io/badge/Trend_Micro-D71920?style=flat-square&logoColor=white" width="120" alt="Trend Micro Vision One" /></a> | 🔒 **[Trend Micro Vision One](https://www.linkedin.com/in/eduolihez/details/certifications/)** — SecOps, AI Security, Threat Intelligence y Cloud Security. |
+
+📜 Listado completo y verificable en **[Credly](https://www.credly.com/users/eduolihez)**.
+
+</details>
 
 ---
 
