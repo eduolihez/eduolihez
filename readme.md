@@ -7,6 +7,10 @@
   <a href="https://www.credly.com/users/eduolihez"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
 </p>
 
+<p align="center">
+  <b>Versión en Español</b> · <a href="readme.en.md">English version</a>
+</p>
+
 ---
 
 ### About Me
@@ -33,6 +37,8 @@ Analista de seguridad especializado en detección de amenazas, respuesta a incid
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🛰️ **[KEV Digest](https://github.com/eduolihez/kev-digest)** | Vigila cada día el catálogo CISA KEV: detecta las vulnerabilidades con explotación activa confirmada, marca las usadas en ransomware y deja un registro versionado. Sin dependencias, sobre GitHub Actions. | Python · GitHub Actions |
+| 📊 **[Vision One CREM Report Generator](https://github.com/eduolihez/vision-one-crem-report-generator)** | Genera informes de riesgo y exposición desde Trend Vision One, enriquecidos con NVD, KEV y EPSS, en HTML interactivo, Word y PDF. | Python · pandas · Flask |
 | 🛡️ **[Blue Team Hub](https://github.com/eduolihez/eduolihez.github.io)** | Herramientas de ciberseguridad client-side + [KEV Watch](https://eduolihez.github.io/tools/kev-watch), vigilancia diaria automatizada (GitHub Actions) del catálogo CISA KEV. | Astro · TailwindCSS |
 | 🔐 **[Password Centinel](https://github.com/eduolihez/password-centinel)** | Gestor de contraseñas 100% local: AES-256-GCM, TOTP/2FA, chequeo HIBP por k-anonimato. | JavaScript · WebCrypto |
 | 🦊 **[NorthGate Browser](https://github.com/eduolihez/northgate-browser)** | Fork de Mullvad/Firefox con detección de phishing on-device vía ONNX/Rust, sin telemetría. | Rust · ONNX · JavaScript |

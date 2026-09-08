@@ -1,0 +1,26 @@
+# ===========================================================================
+#  Dependabot — repositorio de perfil (github.com/eduolihez)
+#
+#  Este repositorio solo contiene readme.md, el que se muestra en la portada
+#  del perfil. No hay dependencias que actualizar hoy.
+#
+#  El bloque queda puesto de antemano porque los repositorios de perfil suelen
+#  acabar teniendo un workflow (estadisticas, snake de contribuciones, feed de
+#  entradas del blog...). En cuanto exista uno, sus actions se mantendran al
+#  dia solas.
+# ===========================================================================
+version: 2
+
+updates:
+  # --- GitHub Actions (.github/workflows/) --------------------------------
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    commit-message:
+      prefix: "ci"
+    groups:
+      actions:
+        patterns:
+          - "*"
