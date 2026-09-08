@@ -1,10 +1,19 @@
+<h1 align="center">Eduardo Olivares Hernández</h1>
+
 <p align="center">
-  <h1>Eduardo Olivares Hernández</h1>
-  <p><b>SOC Analyst · Blue Team · AI-driven threat detection</b></p>
-  <a href="https://www.linkedin.com/in/eduolihez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://eduolihez.com"><img src="https://img.shields.io/badge/Website-10B981?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:eduardo@eduolihez.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.credly.com/users/eduolihez"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
+  <b>SOC Analyst · Blue Team · AI-driven threat detection</b><br>
+  <sub>📍 Badalona · Barcelona</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduolihez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://eduolihez.com"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.credly.com/users/eduolihez"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="mailto:eduardo@eduolihez.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eduolihez?style=flat-square&logo=github&color=10B981&labelColor=181717" alt="GitHub followers" />
 </p>
 
 <p align="center">
@@ -13,7 +22,7 @@
 
 ---
 
-### About Me
+### 👋 About Me
 Security analyst specialized in threat detection, incident response and automation with Python. I work daily with XDR/SIEM (Trend Micro Vision One), Fortinet (FortiGate/FortiAnalyzer) and Active Directory, applying AI to threat investigation and phishing analysis. Certified by Fortinet (NSE), Microsoft and Trend Micro. Based in Badalona (Barcelona).
 
 ---
@@ -29,7 +38,7 @@ Security analyst specialized in threat detection, incident response and automati
 
 ---
 
-### Open Source
+### 💻 Open Source
 
 <details>
 <summary><b>🛡️ Security and threat intelligence</b></summary>
@@ -67,10 +76,10 @@ Security analyst specialized in threat detection, incident response and automati
 
 ---
 
-### Featured Certifications
+### 🎓 Featured Certifications
 
 <details>
-<summary><b>🎓 View verified badges</b></summary>
+<summary><b>🔎 View verified badges</b></summary>
 <br>
 
 | Badge | Certification |
@@ -86,7 +95,7 @@ Security analyst specialized in threat detection, incident response and automati
 
 ---
 
-### Connect
+### 📬 Connect
 * 💼 Professional background on **[LinkedIn](https://www.linkedin.com/in/eduolihez/)**.
 * 🌐 Portfolio, blog and write-ups at **[eduolihez.com](https://eduolihez.com)**.
 * ✉️ Direct contact: **[eduardo@eduolihez.com](mailto:eduardo@eduolihez.com)**.
